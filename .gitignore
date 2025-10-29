@@ -1,12 +1,9 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-# Ignore large folders
-artifacts/
+# Ignore data and model artifacts
 data/
+artifacts/
 mlruns/
 models/
 reports/
-
-# Ignore system and environment files
 venv/
 __pycache__/
 *.pkl
@@ -14,5 +11,3 @@ __pycache__/
 *.xlsx
 *.parquet
 *.zip
-.DS_Store
-
