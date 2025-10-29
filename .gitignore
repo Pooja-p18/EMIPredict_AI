@@ -1,0 +1,18 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignore large folders
+artifacts/
+data/
+mlruns/
+models/
+reports/
+
+# Ignore system and environment files
+venv/
+__pycache__/
+*.pkl
+*.csv
+*.xlsx
+*.parquet
+*.zip
+.DS_Store
+
