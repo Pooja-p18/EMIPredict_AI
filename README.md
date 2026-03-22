@@ -31,7 +31,7 @@ Built using **Python**, **Streamlit**, and **MLflow** for model tracking.
 
 ---
 
-
+---
 ## ⚙️ Installation & Setup
 
 Clone the repository:
@@ -39,5 +39,6 @@ Clone the repository:
 git clone https://github.com/Pooja-p18/EMIPredict_AI.git
 cd EMIPredict_AI
 
-
+---
+Deployment link:
 https://emipredicta.streamlit.app/
